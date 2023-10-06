@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696165134 source:c:\cp\latihan7\main.cpp
+	<iostream>
+	<algorithm>
+	<array>
+
